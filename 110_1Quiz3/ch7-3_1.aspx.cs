@@ -11,7 +11,7 @@ namespace _110_1Quiz3
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            string s_Name = "霸道總柴";
+            string s_Name = "霸道總裁";
             string s_Id = "A123456789";
             Session["name"] = s_Name;
             Session["id"] = s_Id;
